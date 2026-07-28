@@ -25,3 +25,4 @@ Explore my projects, experiments, and deployed applications on my portfolio.
 
 - LinkedIn: https://www.linkedin.com/in/abhinash-gupta-b44627a8/
 - Portfolio: https://www.abhinash.in/
+- Email: hello@abhinash.in
