@@ -19,10 +19,10 @@ CesiumJS, and real-time web applications.
 
 Explore my projects, experiments, and deployed applications on my portfolio.
 
-**Portfolio:** https://www.abhinash.in/
+**Portfolio:** https://abhinash.in/
 
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/abhinash-gupta-b44627a8/
-- Portfolio: https://www.abhinash.in/
+- Portfolio: https://abhinash.in/
 - Email: hello@abhinash.in
